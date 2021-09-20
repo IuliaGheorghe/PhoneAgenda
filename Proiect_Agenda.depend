@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1516213460 source:c:\users\gheor\desktop\proiect_agenda\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<Windows.h>
+	<fstream>
+
+1516263368 source:d:\proiect_agenda\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<Windows.h>
+	<fstream>
+
+1589146354 source:c:\users\romastru\desktop\proiect_agenda\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<algorithm>
+	<cstring>
+	<cstdlib>
+	<Windows.h>
+	<fstream>
+
